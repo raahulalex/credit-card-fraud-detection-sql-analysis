@@ -24,6 +24,7 @@ A 50,000-row sample of credit card transaction data was used for analysis to sim
 - Amount-band analysis helps identify transaction ranges with relatively higher fraud concentration.
 
 ## Files
+- `fraud_analysis_database_creation_queries.sql` → SQL queries used for the database creation in the project
 - `fraud_analysis_queries.sql` → SQL queries used in the project
 - `README.md` → project summary and findings
 
