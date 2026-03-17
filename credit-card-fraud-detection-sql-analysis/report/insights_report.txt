@@ -1,0 +1,23 @@
+# Credit Card Fraud Detection & Transaction Risk Analysis
+
+## Project Summary
+This project uses SQL to analyze a sample of credit card transaction data and identify fraud-related patterns.
+
+## Business Questions
+- What percentage of transactions are fraudulent?
+- How do fraud and normal transactions differ in transaction value?
+- Are certain amount ranges associated with higher fraud rates?
+- How many high-value transactions are fraudulent?
+
+## Key Insights
+- Fraudulent transactions represent a very small percentage of the dataset.
+- The dataset is highly imbalanced, making fraud detection an anomaly analysis problem.
+- High-value transactions deserve closer monitoring due to their risk exposure.
+- Transaction amount bands can help identify fraud concentration patterns.
+
+## Skills Demonstrated
+- SQL querying
+- aggregation
+- CASE statements
+- business insight generation
+- fraud risk analysis
