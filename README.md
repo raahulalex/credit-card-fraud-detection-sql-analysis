@@ -27,6 +27,8 @@ A 50,000-row sample of credit card transaction data was used for analysis to sim
 - `fraud_analysis_database_creation_queries.sql` → SQL queries used for the database creation in the project
 - `fraud_analysis_queries.sql` → SQL queries used in the project
 - `README.md` → project summary and findings
+- `insights_report.txt` → project summary and interpretation
+
 
 ## Skills Demonstrated
 - SQL querying
